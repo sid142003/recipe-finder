@@ -33,7 +33,7 @@ Explore our [Live Application](https://recipe-finder-xi-teal.vercel.app/) and di
 ## 🔧 Installation and Setup
 
 Clone the project repository and set up the required dependencies:
-$ git clone https://github.com/yourusername/recipe-app.git 
+$ git clone [https://github.com/sid142003/recipe-finder](https://github.com/sid142003/recipe-finder) 
 $ cd recipe-app 
 $ npm install
 
