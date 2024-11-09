@@ -1,5 +1,7 @@
 # 🍽️ Recipe App - Culinary Discovery Platform
 
+## For login to my live application -> Use name as : **Taylor**
+
 ## Introduction
 
 Recipe App is an advanced, user-friendly web application designed for culinary enthusiasts to explore, browse, and discover recipes tailored to their tastes and available ingredients. Powered by the MealDB API, Recipe App offers a seamless and enriching platform to access detailed culinary creations from around the world.
